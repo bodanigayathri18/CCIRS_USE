@@ -1,0 +1,6 @@
+{
+  "name": "CCIRS — Crowdsourced Civic Issue Reporting & Resolution System",
+  "description": "Vibrant, full-featured crowdsourced civic issue reporting and municipal resolution platform connecting citizens, municipal officers, and administrators with GPS mapping, photo evidence, workflow tracking, and department analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
